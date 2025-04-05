@@ -16,7 +16,7 @@ Este é um projeto simples de **calculadora em Python**, feito como prática de 
 - [x] Multiplicação  
 - [x] Divisão (com tratamento para divisão por zero)  
 - [x] Potenciação  
-- [x] Histórico de operações (em memória)  
+- [x] Histórico de operações
 
 ---
 
